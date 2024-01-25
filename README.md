@@ -1,4 +1,4 @@
-# Ultraconserved-Intron-Seq
+# Ultraconserved Intron Seq
 
 Exons with extended flanking intron conservation were bioinformatically predicted and analyzed for sequence features and splicing behavior.  
 Computational analysis and branchpoint identification is detailed in "Ultraconserved intron analysis"  
