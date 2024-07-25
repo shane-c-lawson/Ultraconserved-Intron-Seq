@@ -8,4 +8,4 @@ Shane C. Lawson, Brenton R. Graveley
 Department of Genetics and Genome Sciences, Institute for Systems Genomics, UConn Health, Farmington, CT  
 Currently under review for submission  
 
-Contact: slawson@uchc.edu
+Contact: shane.c.lawson@uconn.edu
